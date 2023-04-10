@@ -1,0 +1,18 @@
+{
+  "GB": {
+    "update_code": "5",
+    "reminder_time": "3",
+    "update_link": "https://www.gbgroupapps.com/?p=508",
+    "stickers_app": "dontcheck",
+    "stickers_app_package_name": "com.gbstickers.gb",
+    "stickers_app_link": "https://play.google.com/store/apps/details?id=com.gbstickers.gb",
+    "stickers_app_direct_link": "https://www.gbgroupapps.com/?p=508",
+    "update_message": "
+<p>Update Vطھط­ط¯ظٹط« 18</p>
+
+<li>ط¥طµظ„ط§ط­ط§طھ.</li>
+
+<li>Fixes</li>
+"
+    }
+}
