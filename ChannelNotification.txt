@@ -1,0 +1,2 @@
+channelUrl=https://t.me/DevNooraldeen
+prefAlertChannelNotification=ymwa_alert_channel_notification_0_check
